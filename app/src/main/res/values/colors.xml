@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="euro_brand_500">#FF00488E</color>
+    <color name="euro_brand_800">#FF002145</color>
+    <color name="euro_brand_950">#FF000A1A</color>
+    <color name="euro_yellow">#FFFFF200</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
