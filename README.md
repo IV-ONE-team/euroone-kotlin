@@ -44,7 +44,6 @@ euroone-kotlin/
 ├── gradle/wrapper/*
 ├── gradlew, gradlew.bat
 ├── images/                      # Prints das telas usados neste README
-├── commits.md                   # Plano de commits por integrante
 └── README.md
 ```
 
@@ -273,7 +272,7 @@ Cinco usuários mockados cobrem os três perfis (senha padrão `123456`, já lis
 
 - **1x Educando** - `aluno@gmail.com` (Marina Sales, IE-2024-0281, trilha de Farmacovigilância).
 - **2x Educadores** - `pf_9821@gmail.com` (Dr. Renato Lima) e `pf_102030@gmail.com` (Dra. Sandra Pires).
-- **2x Gestão** - `eurone_1029@gmail.com` (Camila Ferreira, Diretoria Educacional) e `eurone_998877@gmail.com` (Roberto Aoki, Coordenação Pedagógica).
+- **2x Gestão** - `euroone_1029@gmail.com` (Camila Ferreira, Diretoria Educacional) e `euroone_998877@gmail.com` (Roberto Aoki, Coordenação Pedagógica).
 
 ---
 
