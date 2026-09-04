@@ -161,8 +161,8 @@ Todas usam a senha padrão **`123456`** e estão listadas na tela de login (bast
 | Educando   | `aluno@gmail.com`            |
 | Educador   | `pf_9821@gmail.com`          |
 | Educador   | `pf_102030@gmail.com`        |
-| Gestão     | `eurone_1029@gmail.com`      |
-| Gestão     | `eurone_998877@gmail.com`    |
+| Gestão     | `euroone_1029@gmail.com`      |
+| Gestão     | `euroone_998877@gmail.com`    |
 
 ---
 
